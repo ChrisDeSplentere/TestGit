@@ -1,0 +1,6 @@
+U:\Cours3eIesn\EnvDevLog\Exercices\ConsoleApplicationLabo1\ConsoleApplicationLabo2\bin\Debug\ConsoleApplicationLabo2.exe.config
+U:\Cours3eIesn\EnvDevLog\Exercices\ConsoleApplicationLabo1\ConsoleApplicationLabo2\bin\Debug\ConsoleApplicationLabo2.exe
+U:\Cours3eIesn\EnvDevLog\Exercices\ConsoleApplicationLabo1\ConsoleApplicationLabo2\bin\Debug\ConsoleApplicationLabo2.pdb
+U:\Cours3eIesn\EnvDevLog\Exercices\ConsoleApplicationLabo1\ConsoleApplicationLabo2\obj\Debug\ConsoleApplicationLabo2.csprojResolveAssemblyReference.cache
+U:\Cours3eIesn\EnvDevLog\Exercices\ConsoleApplicationLabo1\ConsoleApplicationLabo2\obj\Debug\ConsoleApplicationLabo2.exe
+U:\Cours3eIesn\EnvDevLog\Exercices\ConsoleApplicationLabo1\ConsoleApplicationLabo2\obj\Debug\ConsoleApplicationLabo2.pdb
